@@ -1,0 +1,9 @@
+secrets/
+browser-state/
+failures/
+.env
+__pycache__/
+*.pyc
+tracker-log.txt
+.playwright-mcp/
+.claude/settings.local.json
